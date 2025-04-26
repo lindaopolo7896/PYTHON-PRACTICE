@@ -1,3 +1,4 @@
+#Function to find the sum of a list of numbers
 def mysum(numbers):
   sum=0
   for number in numbers:

@@ -1,3 +1,4 @@
+#Function to get the factorial of a number using recursion
 def recursive_function(x):
   #base case
   if x == 0 or x == 1:

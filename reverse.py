@@ -1,3 +1,4 @@
+#Function to reverse a string
 def reverse(s):
   string=""
   #loop through the string in reverse order
